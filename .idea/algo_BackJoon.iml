@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/basic/for" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/if" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/정보올림피아드_지역예선/초등부" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/stack" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
