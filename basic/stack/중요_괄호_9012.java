@@ -9,33 +9,30 @@ import java.util.Stack;
  * 3. VPS가 맞는지 판단한다 yes or not
  * 4. 1 번으로 돌아간다
  */
-public class 괄호_9012 {
+public class 중요_괄호_9012 {
     static class control{
         Scanner scanner = new Scanner(System.in);
         String command = null;
-        char[] chars = null;
-        boolean judge = false;
+//        char[] chars = null;
+
 
         public boolean judgementVPS() {
-            Stack<Character> stack = new Stack<>();
+            Stack<Character> stack = new Stack<Character>();
             command = scanner.nextLine();
-            chars = command.toCharArray();
+//            chars = command.toCharArray();
 
-            for (int i=0; i<chars.length; i++){
-                if (chars[i]=='('){
-                    stack.push('(');
-                }else if (chars[i]==')'){
-                    if (chars[i-1]=='('){
-                        stack.pop();
-                        stack.pop();
-                    }else {
-                        stack.push(')');
-                    }
+            for (int i=0; i<command.length(); i++) {
+                if (command.charAt(i) == '(') {
+                    stack.push(command.charAt(i));
+                } else {
+                   if (stack.empty()){
+                        return false;
+                   }else {
+                       stack.pop();
+                   }
                 }
             }
-
-            judge = stack.empty();
-            return judge;
+            return stack.empty();
         }
     }
 
