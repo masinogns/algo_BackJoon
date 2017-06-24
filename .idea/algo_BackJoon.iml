@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/정보올림피아드_지역예선/초등부" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/string" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
