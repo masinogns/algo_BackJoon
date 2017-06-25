@@ -15,16 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="수정렬하기3_10989.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/정렬/수정렬하기3_10989.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="카드게임_10801.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/정보올림피아드_지역예선/15/중등부/카드게임_10801.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="사칙연산_10869.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="사칙연산_10869.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic/입출력/사칙연산_10869.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -88,6 +78,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="중요_설탕배달_2839.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/입출력/중요_설탕배달_2839.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -182,6 +182,8 @@
         <option value="$PROJECT_DIR$/basic/입출력/개_10172.java" />
         <option value="$PROJECT_DIR$/basic/입출력/welovekrii_10718.java" />
         <option value="$PROJECT_DIR$/basic/입출력/사칙연산_10869.java" />
+        <option value="$PROJECT_DIR$/basic/입출력/설탕배달_2839.java" />
+        <option value="$PROJECT_DIR$/basic/입출력/중요_설탕배달_2839.java" />
       </list>
     </option>
   </component>
@@ -301,22 +303,7 @@
       <recent name="$PROJECT_DIR$/정보올림피아드_지역예선/15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.사칙연산_10869">
-    <configuration default="false" name="소수찾기_1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="소수찾기_1978" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algo_BackJoon" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.중요_설탕배달_2839">
     <configuration default="false" name="AplusB_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="AplusB_1000" />
@@ -365,6 +352,21 @@
     <configuration default="false" name="사칙연산_10869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="사칙연산_10869" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algo_BackJoon" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="중요_설탕배달_2839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="중요_설탕배달_2839" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -758,19 +760,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.소수찾기_1978" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AplusB_1000" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AminusB_1001" />
-      <item index="3" class="java.lang.String" itemvalue="Application.개_10172" />
-      <item index="4" class="java.lang.String" itemvalue="Application.사칙연산_10869" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AplusB_1000" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AminusB_1001" />
+      <item index="2" class="java.lang.String" itemvalue="Application.개_10172" />
+      <item index="3" class="java.lang.String" itemvalue="Application.사칙연산_10869" />
+      <item index="4" class="java.lang.String" itemvalue="Application.중요_설탕배달_2839" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.사칙연산_10869" />
-        <item index="1" class="java.lang.String" itemvalue="Application.개_10172" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AminusB_1001" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AplusB_1000" />
-        <item index="4" class="java.lang.String" itemvalue="Application.소수찾기_1978" />
+        <item index="0" class="java.lang.String" itemvalue="Application.중요_설탕배달_2839" />
+        <item index="1" class="java.lang.String" itemvalue="Application.사칙연산_10869" />
+        <item index="2" class="java.lang.String" itemvalue="Application.개_10172" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AminusB_1001" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AplusB_1000" />
       </list>
     </recent_temporary>
   </component>
@@ -786,16 +788,16 @@
       <updated>1497959396829</updated>
       <workItem from="1497959398314" duration="11033000" />
       <workItem from="1498207330435" duration="28582000" />
-      <workItem from="1498362878063" duration="3211000" />
+      <workItem from="1498362878063" duration="6690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42826000" />
+    <option name="totallyTimeSpent" value="46305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -812,7 +814,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23359375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23359375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1292,6 +1294,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/입출력/중요_설탕배달_2839.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
