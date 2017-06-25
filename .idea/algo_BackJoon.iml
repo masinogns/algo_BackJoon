@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/basic/정렬" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/정보올림피아드_지역예선/15/중등부" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/소수구하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/입출력" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
