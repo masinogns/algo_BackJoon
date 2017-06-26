@@ -12,31 +12,62 @@ public class 괄호의값_2504 {
         public void setCommand(String command) {
             this.command = command;
         }
+        // http://mygumi.tistory.com/175
 
-        public boolean judgementVPS() {
-            Stack<Character> bracket= new Stack<>();
 
-            for (int i = 0; i < command.length(); i++){
-                if (command.charAt(i)=='('){
-                    bracket.push(command.charAt(i));
-                }else if (command.charAt(i)=='['){
-                    bracket.push(command.charAt(i));
-                }else {
-                    if (bracket.empty()){
-                        return false;
-                    }else {
+        public int valueOfVPS(int[] valueofCommand) {
+            int result = 0;
+            int value = 0;
 
-                        bracket.pop();
-                    }
-                }
+            Stack<Integer> bracket1= new Stack<>();
+            Stack<Integer> bracket2= new Stack<>();
+
+            // 괄호의 짝이 맞는지 틀린지 확인
+            for (int a: valueofCommand){
+                result += a;
             }
 
-            return bracket.empty();
+            // 괄호의 짝이 맞았을 때 실행하는 로직
+            if (result != 0){
+
+                for (int i = 0; i < valueofCommand.length; i++){
+                    if (valueofCommand[i] > 0) bracket1.push(valueofCommand[i]);
+                    else bracket2.push(valueofCommand[i]);
+                }
+
+                for (int i = 0; i < valueofCommand.length; i++){
+                    int front = 0;
+                    int back = 0;
+
+                    front = bracket1.pop();
+                    back = bracket2.pop();
+
+                    if (front == back*(-1)){
+                        value += front;
+                    }else if (front != back*(-1)){
+
+                    }
+                }
+
+            }else value = 0;
+
+            return value;
         }
 
-        public int valueOfVPS() {
+        public String getCommand() {
+            return command;
+        }
 
-            return 0;
+        public int[] changeCommandToValue(String command) {
+            int[] valueOfCommand = new int[command.length()];
+
+            for (int i = 0; i < command.length(); i++){
+                if (command.charAt(i)=='(') valueOfCommand[i] = 2;
+                else if (command.charAt(i)=='[') valueOfCommand[i] = 3;
+                else if (command.charAt(i)==')') valueOfCommand[i] = -2;
+                else valueOfCommand[i] = -3;
+            }
+            return valueOfCommand;
         }
     }
 
@@ -46,12 +77,9 @@ public class 괄호의값_2504 {
 
         control controller = new control();
         controller.setCommand(command);
-        if (controller.judgementVPS()) {
-            System.out.println("YEs");
-            int result = controller.valueOfVPS();
-            System.out.println(result);
-        } else {
-            System.out.println("incorrect VPS!!");
-        }
+        int[] valueofCommand = controller.changeCommandToValue(controller.getCommand());
+
+        int result = controller.valueOfVPS(valueofCommand);
+        System.out.println(result);
     }
 }
