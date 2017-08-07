@@ -26,14 +26,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="부녀회장_2775.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/규칙/부녀회장_2775.java">
+      <file leaf-file-name="방번호_1475.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/규칙/방번호_1475.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="24" column="59" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="24" selection-end-column="59" />
               <folding>
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1089#1090#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
+                <element signature="e#1324#1325#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic/array/OX퀴즈_8958.java" />
         <option value="$PROJECT_DIR$/정보올림피아드_지역예선/초등부/세로읽기_10798.java" />
         <option value="$PROJECT_DIR$/basic/string/아스키코드_11654.java" />
         <option value="$PROJECT_DIR$/basic/string/알파벳찾기_10809.java" />
@@ -118,6 +120,7 @@
         <option value="$PROJECT_DIR$/basic/규칙/분수찾기_1193.java" />
         <option value="$PROJECT_DIR$/basic/규칙/FlyMeToTheAlpha_1011.java" />
         <option value="$PROJECT_DIR$/basic/규칙/부녀회장_2775.java" />
+        <option value="$PROJECT_DIR$/basic/규칙/방번호_1475.java" />
       </list>
     </option>
   </component>
@@ -219,22 +222,7 @@
       <recent name="$PROJECT_DIR$/정보올림피아드_지역예선/15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.부녀회장_2775">
-    <configuration default="false" name="stringexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="stringexample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algo_BackJoon" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.방번호_1475">
     <configuration default="false" name="크로아티아_2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="크로아티아_2941" />
@@ -283,6 +271,21 @@
     <configuration default="false" name="부녀회장_2775" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="부녀회장_2775" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algo_BackJoon" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="방번호_1475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="방번호_1475" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -676,19 +679,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.stringexample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.크로아티아_2941" />
-      <item index="2" class="java.lang.String" itemvalue="Application.벌집" />
-      <item index="3" class="java.lang.String" itemvalue="Application.분수찾기_1193" />
-      <item index="4" class="java.lang.String" itemvalue="Application.부녀회장_2775" />
+      <item index="0" class="java.lang.String" itemvalue="Application.크로아티아_2941" />
+      <item index="1" class="java.lang.String" itemvalue="Application.벌집" />
+      <item index="2" class="java.lang.String" itemvalue="Application.분수찾기_1193" />
+      <item index="3" class="java.lang.String" itemvalue="Application.부녀회장_2775" />
+      <item index="4" class="java.lang.String" itemvalue="Application.방번호_1475" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.부녀회장_2775" />
-        <item index="1" class="java.lang.String" itemvalue="Application.분수찾기_1193" />
-        <item index="2" class="java.lang.String" itemvalue="Application.벌집" />
-        <item index="3" class="java.lang.String" itemvalue="Application.크로아티아_2941" />
-        <item index="4" class="java.lang.String" itemvalue="Application.stringexample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.방번호_1475" />
+        <item index="1" class="java.lang.String" itemvalue="Application.부녀회장_2775" />
+        <item index="2" class="java.lang.String" itemvalue="Application.분수찾기_1193" />
+        <item index="3" class="java.lang.String" itemvalue="Application.벌집" />
+        <item index="4" class="java.lang.String" itemvalue="Application.크로아티아_2941" />
       </list>
     </recent_temporary>
   </component>
@@ -718,12 +721,12 @@
       <workItem from="1502007670025" duration="33000" />
       <workItem from="1502015824063" duration="4123000" />
       <workItem from="1502075278175" duration="3044000" />
-      <workItem from="1502083468137" duration="9446000" />
+      <workItem from="1502083468137" duration="14388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105852000" />
+    <option name="totallyTimeSpent" value="110794000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -741,13 +744,13 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3608769" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26306915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -784,13 +787,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/배열/음계_2920.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/배열/OX퀴즈_8958.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1153,11 +1149,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/규칙/부녀회장_2775.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="22" selection-end-column="44" />
+        <state relative-caret-position="42">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
           <folding>
             <element signature="e#695#696#0" expanded="true" />
             <element signature="e#740#741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/규칙/방번호_1475.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="24" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
           </folding>
         </state>
       </provider>
