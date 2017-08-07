@@ -18,7 +18,6 @@ public class 크로아티아_2941 {
 
     public int checkAlpahbet(String inputString) {
         String[] alpahbet = new String[]{"c=", "c-", "dz=", "d-", "lj", "nj", "s=", "z="};
-
         for (int i = 0; i < alpahbet.length; i++){
             while (true){
                 if (inputString.contains(alpahbet[i])){
