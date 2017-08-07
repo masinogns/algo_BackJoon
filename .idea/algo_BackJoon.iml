@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/basic/소수구하기" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/입출력" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/함수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/Collection" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
