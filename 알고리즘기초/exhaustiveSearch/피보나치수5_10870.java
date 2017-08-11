@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Created by masinogns on 2017. 8. 10..
  */
@@ -35,5 +37,16 @@ public class 피보나치수5_10870 {
             now = ret;
         }
         return ret;
+    }
+
+    // 백준 알고리즘에 제출용
+    public static void main(String[] args) {
+        피보나치수5_10870 application = new 피보나치수5_10870();
+        Scanner scanner = new Scanner(System.in);
+        int fibo = scanner.nextInt();
+
+        application.setInputNumber(fibo);
+        System.out.println(application.findOutFibonachRecursive(application.getInputNumber()));
+
     }
 }
