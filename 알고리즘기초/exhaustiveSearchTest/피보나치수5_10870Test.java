@@ -6,6 +6,8 @@ import static org.junit.Assert.*;
  * Created by masinogns on 2017. 8. 10..
  *
  * recursive와 iterator에 object 생성 부분이 똑같아서 get피보나치수로 뺐다
+ *
+ * 5 밀리초(ms) = 0.005 초(second)
  */
 public class 피보나치수5_10870Test {
     @Test
