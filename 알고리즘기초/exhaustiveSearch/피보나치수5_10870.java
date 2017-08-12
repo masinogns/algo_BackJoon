@@ -2,6 +2,12 @@ import java.util.Scanner;
 
 /**
  * Created by masinogns on 2017. 8. 10..
+ *
+ * acmpi --> 10870 pass N <= 11
+ * acmpi --> 2747 fail N <= 45
+ * remove if(inputNumber > 20 ) return -1; ;;;
+ * acmpi --> 2748 N <= 90; 틀렸다 ㅡㅡ 시간
+ *
  */
 public class 피보나치수5_10870 {
     private int inputNumber;
@@ -15,7 +21,7 @@ public class 피보나치수5_10870 {
     }
 
     public int findOutFibonachRecursive(int N) {
-        if (N > 20) return -1;
+//        if (N > 20) return -1;
 
         if (N == 0 || N == 1) return N;
 
@@ -25,7 +31,7 @@ public class 피보나치수5_10870 {
     public int findOutFibonachIterator(int inputNumber) {
         int ret = 0;
 
-        if (inputNumber > 20) return -1;
+//        if (inputNumber > 20) return -1;
 
         if (inputNumber == 0 || inputNumber == 1) return inputNumber;
 
@@ -46,7 +52,8 @@ public class 피보나치수5_10870 {
         int fibo = scanner.nextInt();
 
         application.setInputNumber(fibo);
-        System.out.println(application.findOutFibonachRecursive(application.getInputNumber()));
+//        System.out.println(application.findOutFibonachRecursive(application.getInputNumber()));
+        System.out.println(application.findOutFibonachIterator(application.getInputNumber()));
 
     }
 }
