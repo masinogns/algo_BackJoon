@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수5_10870.java" afterPath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수5_10870.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java" afterPath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java" />
-    </list>
+    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="피보나치수2_2748Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="피보나치수2_2748Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="피보나치수5_10870Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="피보나치수5_10870Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -897,7 +893,7 @@
       <workItem from="1502075278175" duration="3044000" />
       <workItem from="1502083468137" duration="25002000" />
       <workItem from="1502117668354" duration="11781000" />
-      <workItem from="1502358403143" duration="13818000" />
+      <workItem from="1502358403143" duration="13866000" />
     </task>
     <servers />
   </component>
@@ -934,7 +930,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147007000" />
+    <option name="totallyTimeSpent" value="147055000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1393,20 +1389,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java">
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java">
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
