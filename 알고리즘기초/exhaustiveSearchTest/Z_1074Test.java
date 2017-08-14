@@ -12,9 +12,9 @@ public class Z_1074Test {
     public void test(){
         Z_1074 application = new Z_1074();
 
-        assertEquals(11, getOutput(application, 2, 3, 1));
-        assertEquals(63, getOutput(application, 3, 7, 7));
-        assertEquals(0, getOutput(application,1,0,0));
+        assertEquals("test 1 fail",11, getOutput(application, 2, 3, 1));
+        assertEquals("test 2 fail",63, getOutput(application, 3, 7, 7));
+        assertEquals("test 3 fail",0, getOutput(application,1,0,0));
     }
 
     private int getOutput(Z_1074 application, int n, int row, int column) {

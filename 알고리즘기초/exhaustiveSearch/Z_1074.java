@@ -30,11 +30,11 @@ import java.util.Scanner;
  *     가로 사이즈 N*2
  * }
  *
- * 출처] : http://deliorange.tistory.com/96
+ * 출처] :
+ http://deliorange.tistory.com/96
  *
  */
 public class Z_1074 {
-
     private int n, row, column;
     private int counter;
     private int ret;
@@ -46,7 +46,6 @@ public class Z_1074 {
 
     public void setN(int n) {
         this.n = (int) Math.pow(2, n);
-//        this.n = n*n;
     }
 
     public void setRow(int row) {
@@ -61,32 +60,29 @@ public class Z_1074 {
         return n;
     }
 
+    // n = Math.pow(2, n) = 2^n
     public void findOutRowColumn(int n, int startRow, int startColumn) {
         if (n == 2){
             if (startRow == row && startColumn == column){
                 ret = counter;
-                counter++;
                 return;
             }
             counter++;
 
             if (startRow == row && startColumn + 1 == column){
                 ret = counter;
-                counter++;
                 return;
             }
             counter++;
 
             if (startRow + 1 == row && startColumn == column){
                 ret = counter;
-                counter++;
                 return;
             }
             counter++;
 
             if (startRow + 1 == row && startColumn + 1 == column){
                 ret = counter;
-                counter++;
                 return;
             }
             counter++;

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/Z_1074.java" afterPath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/Z_1074.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/Z_1074Test.java" afterPath="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/Z_1074Test.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,37 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="피보나치수5_10870.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수5_10870.java">
+      <file leaf-file-name="Z_1074.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/Z_1074.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="44" column="19" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="44" selection-end-column="19" />
-              <folding>
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1311">
+              <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="피보나치수2_2748.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수2_2748.java">
+      <file leaf-file-name="하노이의탑_1914.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/하노이의탑_1914.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding>
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="피보나치수2_2748Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="648">
+              <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,18 +52,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_1074.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/Z_1074.java">
+      <file leaf-file-name="알약_4811.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/알약_4811.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="57">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="알약_4811Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/알약_4811Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
-                <element signature="e#996#997#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1057#1058#0" expanded="true" />
-                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="하노이의탑_1914Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/하노이의탑_1914Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,7 +89,7 @@
       <file leaf-file-name="Assert.class" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/Assert.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
+            <state relative-caret-position="5415">
               <caret line="295" column="0" lean-forward="false" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
               <folding />
             </state>
@@ -96,11 +99,9 @@
       <file leaf-file-name="ExampleOfList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic/Collection/ExampleOfList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="494">
               <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-              <folding>
-                <element signature="e#691#699#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,8 +109,8 @@
       <file leaf-file-name="Z_1074Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/Z_1074Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="513">
+              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,7 +121,7 @@
       <file leaf-file-name="피보나치수5_10870Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="228">
               <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,27 +133,14 @@
       <file leaf-file-name="더하기123_9095.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/더하기123_9095.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="437">
+              <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
                 <element signature="e#404#405#0" expanded="true" />
                 <element signature="e#438#439#0" expanded="true" />
                 <element signature="e#469#470#0" expanded="true" />
                 <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
                 <element signature="e#557#558#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="permutationInAlgoBook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/permutationInAlgoBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,9 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic/스택/스택수열_1874.java" />
-        <option value="$PROJECT_DIR$/basic/for/별찍기4_2441.java" />
-        <option value="$PROJECT_DIR$/basic/for/이천칠년_1924.java" />
         <option value="$PROJECT_DIR$/basic/for/합_8393.java" />
         <option value="$PROJECT_DIR$/정보올림피아드_지역예선/15/중등부/삼육구게임_10802.java" />
         <option value="$PROJECT_DIR$/basic/if/x보다작은수_10871.java" />
@@ -235,9 +220,12 @@
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수5_10870.java" />
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java" />
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java" />
-        <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수2_2748.java" />
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/Z_1074Test.java" />
+        <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수2_2748.java" />
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/Z_1074.java" />
+        <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/하노이의탑_1914Test.java" />
+        <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/하노이의탑_1914.java" />
+        <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/알약_4811Test.java" />
       </list>
     </option>
   </component>
@@ -248,8 +236,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1024" />
+    <option name="y" value="-414" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -269,6 +259,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,13 +310,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -350,14 +340,35 @@
       <recent name="$PROJECT_DIR$/정보올림피아드_지역예선/15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Z_1074">
-    <configuration default="false" name="피보나치수5_10870Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.하노이의탑_1914">
+    <configuration default="false" name="하노이의탑_1914Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="algo_BackJoon" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="피보나치수5_10870Test" />
+      <option name="MAIN_CLASS_NAME" value="하노이의탑_1914Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="하노이의탑_1914Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="algo_BackJoon" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="하노이의탑_1914Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -372,14 +383,14 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="피보나치수5_10870Test.iterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="하노이의탑_1914Test.testShowResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="algo_BackJoon" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="피보나치수5_10870Test" />
-      <option name="METHOD_NAME" value="iterator" />
+      <option name="MAIN_CLASS_NAME" value="하노이의탑_1914Test" />
+      <option name="METHOD_NAME" value="testShowResult" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -393,14 +404,14 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="피보나치수2_2748Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="하노이의탑_1914Test.result" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="algo_BackJoon" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="피보나치수2_2748Test" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="하노이의탑_1914Test" />
+      <option name="METHOD_NAME" value="result" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -414,30 +425,9 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Z_1074Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="하노이의탑_1914" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="algo_BackJoon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Z_1074Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Z_1074" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Z_1074" />
+      <option name="MAIN_CLASS_NAME" value="하노이의탑_1914" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -853,19 +843,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.피보나치수5_10870Test.recursive" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.피보나치수5_10870Test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.피보나치수5_10870Test.iterator" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.피보나치수2_2748Test.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Z_1074Test.test" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Z_1074" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test.testShowResult" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test.result" />
+      <item index="5" class="java.lang.String" itemvalue="Application.하노이의탑_1914" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Z_1074" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Z_1074Test.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.피보나치수5_10870Test.iterator" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.피보나치수2_2748Test.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.피보나치수5_10870Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.하노이의탑_1914" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test.result" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test.testShowResult" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.하노이의탑_1914Test.test" />
       </list>
     </recent_temporary>
   </component>
@@ -897,44 +887,46 @@
       <workItem from="1502075278175" duration="3044000" />
       <workItem from="1502083468137" duration="25002000" />
       <workItem from="1502117668354" duration="11781000" />
-      <workItem from="1502358403143" duration="19211000" />
+      <workItem from="1502358403143" duration="20901000" />
+      <workItem from="1502676322469" duration="5124000" />
+      <workItem from="1502681732987" duration="2129000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 38m 12s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_result - 2017.08.14 at 13h 10m 31s.xml">
+      <configuration name="하노이의탑_1914Test.result" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 38m 50s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_test - 2017.08.14 at 11h 57m 54s.xml">
+      <configuration name="하노이의탑_1914Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 40m 10s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_test - 2017.08.14 at 12h 04m 41s.xml">
+      <configuration name="하노이의탑_1914Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 41m 35s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_testShowResult - 2017.08.14 at 12h 23m 54s.xml">
+      <configuration name="하노이의탑_1914Test.testShowResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 41m 46s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_testShowResult - 2017.08.14 at 12h 24m 19s.xml">
+      <configuration name="하노이의탑_1914Test.testShowResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 46m 34s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_testShowResult - 2017.08.14 at 12h 25m 13s.xml">
+      <configuration name="하노이의탑_1914Test.testShowResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 47m 58s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_testShowResult - 2017.08.14 at 12h 26m 05s.xml">
+      <configuration name="하노이의탑_1914Test.testShowResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 48m 50s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_testShowResult - 2017.08.14 at 12h 26m 33s.xml">
+      <configuration name="하노이의탑_1914Test.testShowResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 49m 00s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_testShowResult - 2017.08.14 at 12h 27m 34s.xml">
+      <configuration name="하노이의탑_1914Test.testShowResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Z_1074Test_test - 2017.08.12 at 16h 49m 56s.xml">
-      <configuration name="Z_1074Test.test" configurationId="JUnit" />
+    <history-entry file="하노이의탑_1914Test_testShowResult - 2017.08.14 at 12h 54m 52s.xml">
+      <configuration name="하노이의탑_1914Test.testShowResult" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152400000" />
+    <option name="totallyTimeSpent" value="161343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -946,27 +938,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <frame x="1024" y="-414" width="1280" height="960" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32669324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.30016863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="11" y="409" width="1201" height="337" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.30016863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="250" width="1024" height="337" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19375" sideWeight="0.4940978" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21015625" sideWeight="0.4940978" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -978,6 +969,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -997,34 +989,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/for/합_8393.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/정보올림피아드_지역예선/15/중등부/카드게임_10801.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/정보올림피아드_지역예선/15/중등부/삼육구게임_10802.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/if/x보다작은수_10871.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/if/평균_1546.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1142,14 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1194#1195#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1157,7 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,10 +1134,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-          <folding>
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1219,9 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1229,20 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#1215#1216#0" expanded="true" />
-            <element signature="e#1263#1264#0" expanded="true" />
-            <element signature="e#1298#1299#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-            <element signature="e#1368#1369#0" expanded="true" />
-            <element signature="e#1415#1416#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1482#1483#0" expanded="true" />
-            <element signature="e#1517#1518#0" expanded="true" />
-            <element signature="e#1563#1564#0" expanded="true" />
-            <element signature="e#1606#1607#0" expanded="true" />
-            <element signature="e#1648#1649#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1250,7 +1184,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1258,7 +1191,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,7 +1198,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,7 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1288,22 +1218,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/별찍기10_2447Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/별찍기10_2447.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/별찍기10_2447Test.java" />
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/별찍기10_2447.java" />
     <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/makePermutattion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-49">
@@ -1312,17 +1228,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/모든순열_10974Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="18" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/모든순열_10974Test.java" />
     <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/permutationInAlgoBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
+        <state relative-caret-position="0">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1332,29 +1241,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수5_10870.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="44" column="19" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="44" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="44" column="19" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="44" selection-end-column="19" />
           <folding>
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수2_2748.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="589">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/Z_1074.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5415">
+          <caret line="295" column="0" lean-forward="false" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Collection/ExampleOfList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/Z_1074Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="228">
           <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1362,70 +1310,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/Collection/ExampleOfList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          <folding>
-            <element signature="e#691#699#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/더하기123_9095.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="437">
+          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="e#404#405#0" expanded="true" />
             <element signature="e#438#439#0" expanded="true" />
             <element signature="e#469#470#0" expanded="true" />
             <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
             <element signature="e#557#558#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/Assert.class">
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/하노이의탑_1914Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="295" column="0" lean-forward="false" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/Z_1074Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="646">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/Z_1074.java">
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/하노이의탑_1914.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="648">
+          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
           <folding>
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/알약_4811.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/알약_4811Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
