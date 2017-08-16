@@ -20,7 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/알고리즘기초/exhaustiveSearch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/알고리즘기초/DataStructure" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/알고리즘기초/DataStructureTest" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/basic/Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/SortingLibrary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/SortingTest" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />

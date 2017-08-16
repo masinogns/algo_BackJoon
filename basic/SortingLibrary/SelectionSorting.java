@@ -58,16 +58,11 @@ public class SelectionSorting {
             Array.set(i, Array.get(minmum));
             Array.set(minmum, temp);
 
-
-//            temp = Array.get(i);
-//            이거였을 때에는 왜 안되었을까???
-//            Array.set(minmum, temp);
-//            Array.set(i, Array.get(minmum));
-
             System.out.println((i+1)+"단계: "+Array.toString());
         }
 
     }
+
 
 
     public ArrayList sortingResult() {
