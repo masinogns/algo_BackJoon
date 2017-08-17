@@ -82,4 +82,26 @@ public class SortingTest {
         assertEquals(answerArray, application.sortingResult());
     }
 
+    @Test
+    public void shellSorting(){
+        ShellSorting application = new ShellSorting();
+
+        application.setArrayList(testArray);
+        application.sorting(application.getArrayList());
+
+        assertEquals(answerArray, application.sortingResult());
+    }
+
+    @Test
+    public void insertSorting(){
+        InsertSorting application = new InsertSorting();
+
+        application.setArrayList(testArray);
+        application.sorting(application.getArrayList());
+
+        assertEquals(answerArray, application.sortingResult());
+    }
+
+
+
 }
