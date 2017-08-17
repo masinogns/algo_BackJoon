@@ -61,4 +61,25 @@ public class SortingTest {
 
         assertEquals(descendingArray, application.sortingResult());
     }
+
+    @Test
+    public void mergeSorting(){
+        MergeSorting application = new MergeSorting();
+
+        application.setArrayList(testArray);
+        application.sorting(application.getArrayList(), 0, application.getArrayList().size()-1);
+
+        assertEquals(answerArray, application.sortingResult());
+    }
+
+    @Test
+    public void radixSorting(){
+        RadixSorting application = new RadixSorting();
+
+        application.setArrayList(testArray);
+        application.sorting(application.getArrayList());
+
+        assertEquals(answerArray, application.sortingResult());
+    }
+
 }
