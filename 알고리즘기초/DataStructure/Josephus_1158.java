@@ -41,6 +41,10 @@ public class Josephus_1158 {
         return removeNumber;
     }
 
+    /**
+     * 원탁에 둘러 싸 앉을 사람들을 생성하는 함수
+     * @param peopleNumber
+     */
     public void setJosephusArrays(int peopleNumber) {
         for (int i = 0; i < peopleNumber; i++){
             people.add(i, i+1);
@@ -53,16 +57,26 @@ public class Josephus_1158 {
 
     public void findOutJosephusArrays(int removeIndex) {
 
-        int minus = removeIndex - 1;
-        int size = people.size();
+        // 규칙을 보니 3번 째 사람을 kill할 때, 실제 이동된 index는 -1을 한 2였다
         removeIndex -= 1;
+        int minus = removeIndex;
+        int size = people.size();
 
+
+        // 사람이 0이면 다 죽은 것이기 때문에 그
         while (size > 0){
 
+            // 원탁 한 바퀴를 돌면 people size보다 커지게 되서 index 0으로 가게 해줄 로직
+            // 몫은 바퀴 수를 의미할 것이고 나머지는 removeIndex를 의미할 것이다
             removeIndex = removeIndex % size;
+
+            //removeIndex에 해당하는 사람을 조세퍼스 배열에 추가하고 people permutation에서 삭제한다
             josephusArrays.add(people.get(removeIndex));
             people.remove(removeIndex);
 
+            // removeIndex는 3이나 index의 시작이 0부터 시작하기 때문에
+            // 0, 1, 2 형식으로 빼지므로 3이 아닌 2를 뺀다
+            // List 삭제 시에 삭제된 index부터 시작되기 때문에 -1을 해
             removeIndex += minus;
             size -= 1;
 

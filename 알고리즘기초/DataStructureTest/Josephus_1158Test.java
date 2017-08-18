@@ -13,7 +13,7 @@ public class Josephus_1158Test {
     public void test(){
         Josephus_1158 application = new Josephus_1158();
 
-        application.setPeopleNumber(7);
+        application.setPeopleNumber(6);
         application.setRemoveNumber(3);
 
         application.setJosephusArrays(application.getPeopleNumber());
@@ -21,7 +21,7 @@ public class Josephus_1158Test {
 
 
         ArrayList<Integer> josephus = new ArrayList<>(
-                Arrays.asList(3,6,2,7,5,1,4)
+                Arrays.asList(3,5)
         );
 
         assertEquals(josephus, application.getJosephusArrays());
