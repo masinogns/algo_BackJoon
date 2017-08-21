@@ -52,6 +52,7 @@ public class SortingTest {
         assertEquals(answerArray, application.sortingResult());
     }
 
+    //소트 
     @Test
     public void bubleSotringDescending(){
         BubbleSorting application = new BubbleSorting();
