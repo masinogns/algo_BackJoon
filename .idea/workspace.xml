@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="" />
+    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,21 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="계단오르기.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="계단오르기.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic2/동적계획법1/계단오르기.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="37" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="37" />
+            <state relative-caret-position="616">
+              <caret line="58" column="37" lean-forward="true" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="숫자1로만들기.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="숫자1로만들기.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic2/동적계획법1/숫자1로만들기.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+            <state relative-caret-position="798">
+              <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -96,14 +98,22 @@
       <file leaf-file-name="숫자1로만들기Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestBasic2/동적계획법1/숫자1로만들기Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            <state relative-caret-position="559">
+              <caret line="47" column="43" lean-forward="true" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#337#338#0" expanded="true" />
                 <element signature="e#393#394#0" expanded="true" />
                 <element signature="e#429#430#0" expanded="true" />
                 <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#860#861#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/permutationInAlgoBook.java" />
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearch/피보나치수5_10870.java" />
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수5_10870Test.java" />
         <option value="$PROJECT_DIR$/알고리즘기초/exhaustiveSearchTest/피보나치수2_2748Test.java" />
@@ -223,8 +232,9 @@
         <option value="$PROJECT_DIR$/basic2/동적계획법1/숫자삼각형.java" />
         <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/계단오르기Test.java" />
         <option value="$PROJECT_DIR$/basic2/동적계획법1/계단오르기.java" />
-        <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/숫자1로만들기Test.java" />
         <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/숫자1로만들기.java" />
+        <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/숫자1로만들기Test.java" />
+        <option value="$PROJECT_DIR$/basic2/동적계획법1/숫자1로만들기.java" />
       </list>
     </option>
   </component>
@@ -976,20 +986,11 @@
       <workItem from="1504361093304" duration="2116000" />
       <workItem from="1504363862210" duration="2852000" />
       <workItem from="1504372213574" duration="2701000" />
-      <workItem from="1504492212891" duration="6514000" />
+      <workItem from="1504492212891" duration="7492000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="계단오르기Test_test - 2017.09.04 at 13h 33m 04s.xml">
-      <configuration name="계단오르기Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="계단오르기Test_test - 2017.09.04 at 13h 34m 06s.xml">
-      <configuration name="계단오르기Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="계단오르기Test_test - 2017.09.04 at 13h 34m 54s.xml">
-      <configuration name="계단오르기Test.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="계단오르기Test_test - 2017.09.04 at 13h 38m 48s.xml">
       <configuration name="계단오르기Test.test" configurationId="JUnit" />
     </history-entry>
@@ -1011,9 +1012,18 @@
     <history-entry file="숫자1로만들기Test - 2017.09.04 at 14h 47m 37s.xml">
       <configuration name="숫자1로만들기Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="숫자1로만들기Test - 2017.09.04 at 17h 06m 31s.xml">
+      <configuration name="숫자1로만들기Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="숫자1로만들기Test - 2017.09.04 at 17h 11m 00s.xml">
+      <configuration name="숫자1로만들기Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="숫자1로만들기Test - 2017.09.04 at 17h 11m 39s.xml">
+      <configuration name="숫자1로만들기Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246646000" />
+    <option name="totallyTimeSpent" value="247624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1404,32 +1414,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic2/동적계획법1/계단오르기.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="58" column="37" lean-forward="true" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestBasic2/동적계획법1/숫자1로만들기Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        <state relative-caret-position="559">
+          <caret line="47" column="43" lean-forward="true" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
             <element signature="e#393#394#0" expanded="true" />
             <element signature="e#429#430#0" expanded="true" />
             <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic2/동적계획법1/숫자1로만들기.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic2/동적계획법1/계단오르기.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="37" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="37" />
+        <state relative-caret-position="798">
+          <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
           <folding />
         </state>
       </provider>
