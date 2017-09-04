@@ -1,5 +1,7 @@
 package 동적계획법1;
 
+import java.util.Scanner;
+
 /**
  * Created by masinogns on 2017. 9. 4..
  *
@@ -40,7 +42,7 @@ package 동적계획법1;
 
  출처: http://6a68.tistory.com/6 [HH]
 
- solution 3개 뭐가 다른지 이해를 좀. 
+ solution 3개 뭐가 다른지 이해를 좀.
  */
 public class 숫자1로만들기 {
     public int solution(int n) {
@@ -102,5 +104,14 @@ public class 숫자1로만들기 {
         }
 
         return D[n];
+    }
+
+    public static void main(String[] args) {
+        숫자1로만들기 application = new 숫자1로만들기();
+        Scanner scanner = new Scanner(System.in);
+
+        int n = scanner.nextInt();
+
+        System.out.println(application.solution(n));
     }
 }
