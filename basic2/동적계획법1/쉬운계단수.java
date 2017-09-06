@@ -63,6 +63,41 @@ public class 쉬운계단수 {
         return (int) (sum %= mod);
     }
 
+
+    public int ik(int n){
+        int[][] d = new int[n][10];
+        int anwser = 0;
+
+        for(int i = 0; i < 10; i++){
+            d[0][i] = 1;
+        }
+
+        for(int i = 1; i < n; i++){
+
+            for(int j = 0; j < 10; j++) {
+                if(j == 0){
+                    d[i][0] = d[i-1][1];
+                }else if (j == 9){
+                    d[i][9] = d[i-1][8];
+                }else{
+                    d[i][j] = d[i-1][j-1] + d[i-1][j+1];
+                }
+            }
+        }
+
+        for(int i = 0; i < 9; i++){
+            System.out.print(d[0][i] + " ");
+        }
+
+        for (int i = 0; i < 9;i++){
+            anwser += d[n-1][i];
+        }
+
+
+
+        return anwser;
+    }
+
     public static void main(String[] args) {
         쉬운계단수 application = new 쉬운계단수();
 

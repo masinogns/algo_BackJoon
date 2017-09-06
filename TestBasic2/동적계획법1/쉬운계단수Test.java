@@ -19,4 +19,14 @@ public class 쉬운계단수Test {
     public void test2() throws Exception {
         assertEquals(9, application.solution(1));
     }
+
+    @Test
+    public void testik1() throws Exception {
+        assertEquals(17, application.ik(2));
+    }
+
+    @Test
+    public void testik2() throws Exception {
+        assertEquals(9, application.ik(1));
+    }
 }
