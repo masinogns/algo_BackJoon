@@ -21,7 +21,9 @@ public class 타일링2N {
         int[] D = new int[n+1];
 
         D[1] = 1;
+        if (n == 1) return 1;
         D[2] = 2;
+        if (n == 2) return 2;
 
         for (int i = 3; i <=n; i++)
             D[i] = (D[i-2] + D[i-1])%10007;
