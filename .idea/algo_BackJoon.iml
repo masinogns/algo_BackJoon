@@ -25,6 +25,8 @@
       <sourceFolder url="file://$MODULE_DIR$/basic/BasicTest" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/basic2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TestBasic2" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/정보올림피아드_지역본선" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/정보올림피아드_지역본선TEST" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
