@@ -23,6 +23,8 @@ package 지역본선14.초등부;
  * 즉 경계면을 만나고 반대 방향으로 갈 수 있다면 반대로 이동할 수 있다
  */
 
+import java.util.Scanner;
+
 /**
  * x축과 y축을 따로 생각하자
  * 그러면 t초는 x축으로 왔다갔다, y 축으로 왔다갔다 하는 개미 하나를 연상할 수 있다
@@ -49,5 +51,21 @@ public class 개미 {
 
 
         return new int[]{row, col};
+    }
+
+    public static void main(String[] args) {
+        개미 application = new 개미();
+
+        Scanner scanner = new Scanner(System.in);
+
+        int Row = scanner.nextInt();
+        int Colum = scanner.nextInt();
+        int row = scanner.nextInt();
+        int col = scanner.nextInt();
+        int time = scanner.nextInt();
+
+        int[] ret = application.solution(Row, Colum, row, col, time);
+
+        System.out.println(ret[0]+" "+ret[1]);
     }
 }
