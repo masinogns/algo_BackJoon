@@ -1,12 +1,16 @@
 package 지역본선14.초등부;
 
+import java.util.Scanner;
+
 /**
  * Created by masinogns on 2017. 9. 19..
  */
-class Position{
+
+
+class Postion{
     int x, y;
 
-    public Position(int x, int y) {
+    public Postion(int x, int y) {
         this.x = x;
         this.y = y;
     }
@@ -19,106 +23,76 @@ class Position{
         return y;
     }
 
-    public int[] getPosition(){
+    public int[] getPostion(){
         return new int[]{x, y};
     }
 }
 
-public class 자리배정 {
-    public int[] solution(int column, int row, int k) {
+public class 자리배정{
+    private Postion[] postions;
+    /**
+     * @param C colum의 갯수로 '세로'를 뜻한다
+     * @param R row의 갯수로 '가로'를 뜻한다
+     * @param K 대기번호를 뜻하고 대기번호의 좌석 번호인 x,y를 구해야한다
+     * @return
+     */
+    public int[] solution(int C, int R, int K) {
+        postions = new Postion[C*R+1];
+        postions[0] = new Postion(0,0);
+        postions = makeConcertHall(C, R, postions);
 
-        Position[] positions = new Position[column*row+1];
-        int ret = 0;
+        if (K > C*R) return new int[]{0};
 
-        if (column*row < k)
-            return new int[]{0};
+//        x,y 출력문
+//        for (int i = 1; i < C*R+1 ; i++){
+//            System.out.println(postions[i].getX()+" "+postions[i].getY());
+//        }
 
-//        exeMakeArray(3);     // 달팽이 배열을 보여준다
-        positions = makeArray(row,column, positions);
-
-        for (int i = 1; i < column*row ; i++){
-            System.out.print(positions[i].getX()+" "+positions[i].getY());
-            System.out.println();
-        }
-        return positions[k].getPosition();
+        return postions[K].getPostion();
     }
 
-    private Position[] makeArray(int 행, int 열, Position[] positions){
-        int[][] arr = new int[행+1][열+1];
+    private Postion[] makeConcertHall(int C, int R, Postion[] postions) {
 
-        int value = 1;
-        int row = 1, column = 0;
-        int inc = 1;
-        int x, y;
+        int value = 1, X = 1, Y = 0, row, colum;
+        int op = 1;
 
-        positions[0] = new Position(0, 0);
-        while (행 > 0 && 열 > 0){
-            for (y = 0; y < 열; y++){
-                column += inc;
-                arr[row][column] = value;
-                positions[value] = new Position(row, column);
+        while (C>0&&R>0){
+
+            for (row = 0; row < R; row++){
+                Y += op;
+                this.postions[value] = new Postion(X, Y);
                 value++;
             }
+            R--;
+            if (R == 0 && C == 0)break;
 
-            열--;
-            if (열 == 0) break;
-
-
-            for (x = 0; x < 행-1; x++){
-                row += inc;
-                arr[row][column] = value;
-                positions[value] = new Position(row, column);
+            for (colum = 0; colum < C-1; colum++){
+                X += op;
+                this.postions[value] = new Postion(X, Y);
                 value++;
             }
-            inc *= -1;
+            op *= -1;
 
-            행--;
-            if (행 == 0) break;
+            C--;
+            if (R == 0 && C == 0)break;
+
         }
 
-
-        return positions;
-
+        return postions;
     }
 
-    private void exeMakeArray(int n) {
-        int[][] arr = new int[n][n];
-        arr = makeArr(n, arr);
+    public static void main(String[] args) {
+        자리배정 application = new 자리배정();
 
-        for (int i = 0; i < n; i++){
-            for (int j = 0; j < n; j++){
-                System.out.print(arr[i][j]+" ");
-            }
-            System.out.println();
-        }
-    }
+        Scanner scanner = new Scanner(System.in);
 
-    // 배열의 크기 n을 받는다
-    private int[][] makeArr(int n, int[][] arr){
-        int value = 1;              //배열을 채워 나갈 값
-        int row = 0, col = -1;       // 행row 열col을 나타내는 index
-        int increase = 1;           // index의 증가량으로 1 또는 -1을 갖는다
+        int C = scanner.nextInt();
+        int R = scanner.nextInt();
+        int K = scanner.nextInt();
 
-        int i;
-
-        while (n > 0){
-            for (i = 0; i < n; i++){    // 열 index를 increase만큼 증가시킨다 increase가 -1이면 감소
-                col+=increase;
-                arr[row][col] = value;
-                value++;
-            }
-
-            n--;                        // 전진하는 양
-            if (n==0) break;
-
-            for (i = 0; i < n; i++){    // 행 index를 increase만큼 증가시킨다 increase가 -1이면 감소
-                row += increase;
-                arr[row][col] = value;
-                value++;
-            }
-            increase *= -1;
-        }
-
-        return arr;
+        int[] ret = application.solution(C, R, K);
+        if (ret.length == 2)
+            System.out.println(ret[0]+" "+ret[1]);
+        else System.out.println(0);
     }
 }

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="" />
+    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/자리배정.java" afterPath="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/자리배정.java" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,16 +31,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="자리배정.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="자리배정.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/자리배정.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="106" column="38" lean-forward="true" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
+            <state relative-caret-position="578">
+              <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
               <folding>
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="개미.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/개미.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+              <folding>
+                <marker date="1506401580000" expanded="false" signature="72:617" ph="/**...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockJUnit4ClassRunner.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParentRunner.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runners/ParentRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="179" column="43" lean-forward="false" selection-start-line="179" selection-start-column="43" selection-end-line="179" selection-end-column="43" />
+              <folding>
+                <element signature="e#4681#4816#0" expanded="true" />
+                <element signature="e#4815#4816#0" expanded="true" />
+                <element signature="e#5056#5204#0" expanded="true" />
+                <element signature="e#5203#5204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JUnitCore.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runner/JUnitCore.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="개미Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/개미Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,8 +110,8 @@
       <file leaf-file-name="자리배정Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/자리배정Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="361">
+              <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,8 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/붕어빵판매하기Test.java" />
-        <option value="$PROJECT_DIR$/basic2/동적계획법1/붕어빵판매하기.java" />
         <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/오르막수Test.java" />
         <option value="$PROJECT_DIR$/basic2/동적계획법1/오르막수.java" />
         <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/이친수Test.java" />
@@ -136,6 +197,8 @@
         <option value="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/과자.java" />
         <option value="$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/자리배정Test.java" />
         <option value="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/자리배정.java" />
+        <option value="$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/개미Test.java" />
+        <option value="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/개미.java" />
       </list>
     </option>
   </component>
@@ -193,83 +256,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="정보올림피아드_지역본선TEST" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="지역본선15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="정보올림피아드_지역본선TEST" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="초등부" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="정보올림피아드_지역본선" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="정보올림피아드_지역본선" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="초등부" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="자리배정.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo_BackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="정보올림피아드_지역본선" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="초등부" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,8 +306,9 @@
       <recent name="자료구조1" />
       <recent name="DP문제풀이1" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/알고리즘기초" />
+      <recent name="$PROJECT_DIR$/정보올림피아드_지역예선/15" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="지역본선15.초등부" />
@@ -329,64 +317,11 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/알고리즘기초" />
-      <recent name="$PROJECT_DIR$/정보올림피아드_지역예선/15" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.자리배정Test">
-    <configuration default="false" name="컬러볼Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="지역본선15.초등부.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="algo_BackJoon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="지역본선15.초등부" />
-      <option name="MAIN_CLASS_NAME" value="지역본선15.초등부.컬러볼Test" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="컬러볼Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="지역본선15.초등부.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="algo_BackJoon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="지역본선15.초등부" />
-      <option name="MAIN_CLASS_NAME" value="지역본선15.초등부.컬러볼Test" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.개미Test">
     <configuration default="false" name="과자Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -451,6 +386,52 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="지역본선14.초등부" />
       <option name="MAIN_CLASS_NAME" value="지역본선14.초등부.자리배정Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="자리배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="지역본선14.초등부.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="지역본선14.초등부.자리배정" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algo_BackJoon" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="개미Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="지역본선14.초등부.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="algo_BackJoon" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="지역본선14.초등부" />
+      <option name="MAIN_CLASS_NAME" value="지역본선14.초등부.개미Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -868,19 +849,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.피보나치수5_10870Test.recursive" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.컬러볼Test.test2" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.컬러볼Test.test1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.과자Test.test1" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.과자Test" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.자리배정Test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.과자Test.test1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.과자Test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.자리배정Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.자리배정" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.개미Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.자리배정Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.과자Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.과자Test.test1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.컬러볼Test.test1" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.컬러볼Test.test2" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.개미Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.자리배정" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.자리배정Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.과자Test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.과자Test.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -947,44 +928,44 @@
       <workItem from="1505953733331" duration="6000" />
       <workItem from="1505953744023" duration="7000" />
       <workItem from="1505954770600" duration="31000" />
-      <workItem from="1506384850160" duration="803000" />
+      <workItem from="1506384850160" duration="12782000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="자리배정Test - 2017.09.19 at 16h 32m 41s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 20m 40s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 29m 32s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 22m 57s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 30m 38s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 23m 08s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 31m 05s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 25m 15s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 31m 56s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 29m 20s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 32m 56s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 29m 31s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 33m 03s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 32m 29s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 33m 14s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 34m 46s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 34m 08s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 36m 32s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="자리배정Test - 2017.09.26 at 09h 34m 55s.xml">
-      <configuration name="자리배정Test" configurationId="JUnit" />
+    <history-entry file="개미Test - 2017.09.26 at 13h 52m 44s.xml">
+      <configuration name="개미Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338235000" />
+    <option name="totallyTimeSpent" value="350214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1040,57 +1021,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="33" />
+      <option name="time" value="40" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="row" />
+        <watch expression="col" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="198" column="6" lean-forward="false" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic2/DP문제풀이1/극장좌석.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestBasic2/DP문제풀이1/극장좌석Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic2/동적계획법1/타일링2N2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic2/동적계획법1/타일링2N.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestBasic2/DP문제풀이1/가장긴증가하는부분수열Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestBasic2/동적계획법1/숫자1로만들기Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
@@ -1402,8 +1346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/자리배정Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="361">
+          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1412,13 +1356,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/자리배정.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="106" column="38" lean-forward="true" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
+        <state relative-caret-position="578">
+          <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
           <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/개미Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="179" column="43" lean-forward="false" selection-start-line="179" selection-start-column="43" selection-end-line="179" selection-end-column="43" />
+          <folding>
+            <element signature="e#4681#4816#0" expanded="true" />
+            <element signature="e#4815#4816#0" expanded="true" />
+            <element signature="e#5056#5204#0" expanded="true" />
+            <element signature="e#5203#5204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/개미.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+          <folding>
+            <marker date="1506401580000" expanded="false" signature="72:617" ph="/**...*/" />
           </folding>
         </state>
       </provider>
