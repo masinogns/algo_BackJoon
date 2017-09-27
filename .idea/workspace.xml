@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/저울.java" afterPath="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/저울.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/저울Test.java" afterPath="$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선14/초등부/저울Test.java" />
-    </list>
+    <list default="true" id="1ce39ec2-a0e7-49d5-bdb1-bf92212278c3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +56,31 @@
       <file leaf-file-name="덩치.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선/지역본선13/초등부/덩치.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="502">
+              <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="덩치Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선13/초등부/덩치Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,8 +114,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -119,8 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TestBasic2/동적계획법1/이동하기Test.java" />
-        <option value="$PROJECT_DIR$/basic2/동적계획법1/이동하기.java" />
         <option value="$PROJECT_DIR$/basic2/동적계획법1/이동하기강의.java" />
         <option value="$PROJECT_DIR$/TestBasic2/DP문제풀이1/동물원Test.java" />
         <option value="$PROJECT_DIR$/basic2/DP문제풀이1/동물원.java" />
@@ -170,6 +187,8 @@
         <option value="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선14/초등부/저울.java" />
         <option value="$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선13/초등부/그릇Test.java" />
         <option value="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선13/초등부/그릇.java" />
+        <option value="$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선13/초등부/덩치Test.java" />
+        <option value="$PROJECT_DIR$/정보올림피아드_지역본선/지역본선13/초등부/덩치.java" />
       </list>
     </option>
   </component>
@@ -248,6 +267,28 @@
               <option name="myItemId" value="초등부" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="덩치.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algo_BackJoon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algo_BackJoon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="정보올림피아드_지역본선" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="초등부" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -281,7 +322,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/정보올림피아드_지역본선TEST" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선13/초등부" />
     <property name="FullScreen" value="true" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -312,7 +353,7 @@
       <recent name="$PROJECT_DIR$/정보올림피아드_지역예선/15" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.그릇Test">
+  <component name="RunManager" selected="JUnit.덩치Test">
     <configuration default="false" name="단어정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="단어정렬" />
@@ -326,27 +367,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="algo_BackJoon" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="단어정렬Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="algo_BackJoon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="단어정렬Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="false" name="저울Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -407,6 +427,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="지역본선13.초등부" />
       <option name="MAIN_CLASS_NAME" value="지역본선13.초등부.그릇Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="덩치Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="지역본선13.초등부.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="algo_BackJoon" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="지역본선13.초등부" />
+      <option name="MAIN_CLASS_NAME" value="지역본선13.초등부.덩치Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -825,18 +871,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.피보나치수5_10870Test.recursive" />
       <item index="1" class="java.lang.String" itemvalue="Application.단어정렬" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.단어정렬Test (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.저울Test" />
-      <item index="4" class="java.lang.String" itemvalue="Application.저울" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.그릇Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.저울Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.저울" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.그릇Test" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.덩치Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.그릇Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.저울" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.저울Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.단어정렬" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.단어정렬Test (1)" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.덩치Test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.그릇Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.저울" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.저울Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.단어정렬" />
       </list>
     </recent_temporary>
   </component>
@@ -904,44 +950,44 @@
       <workItem from="1505953744023" duration="7000" />
       <workItem from="1505954770600" duration="31000" />
       <workItem from="1506384850160" duration="23152000" />
-      <workItem from="1506473414195" duration="3413000" />
+      <workItem from="1506473414195" duration="5967000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="그릇Test - 2017.09.27 at 10h 55m 29s.xml">
-      <configuration name="그릇Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 42m 03s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="그릇Test - 2017.09.27 at 11h 07m 31s.xml">
-      <configuration name="그릇Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 42m 25s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="단어정렬Test - 2017.09.26 at 15h 21m 05s.xml">
-      <configuration name="단어정렬Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 42m 51s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="단어정렬Test - 2017.09.26 at 15h 23m 12s.xml">
-      <configuration name="단어정렬Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 43m 30s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="단어정렬Test - 2017.09.26 at 15h 24m 37s.xml">
-      <configuration name="단어정렬Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 43m 49s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="단어정렬Test_(1) - 2017.09.26 at 15h 27m 54s.xml">
-      <configuration name="단어정렬Test (1)" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 44m 17s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="단어정렬Test_(1) - 2017.09.26 at 15h 28m 17s.xml">
-      <configuration name="단어정렬Test (1)" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 45m 33s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="저울Test - 2017.09.26 at 17h 37m 52s.xml">
-      <configuration name="저울Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 53m 40s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="저울Test - 2017.09.26 at 17h 38m 45s.xml">
-      <configuration name="저울Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 54m 05s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="저울Test - 2017.09.27 at 10h 08m 29s.xml">
-      <configuration name="저울Test" configurationId="JUnit" />
+    <history-entry file="덩치Test - 2017.09.27 at 11h 54m 44s.xml">
+      <configuration name="덩치Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363997000" />
+    <option name="totallyTimeSpent" value="366551000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1011,7 +1057,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algo_Basic_BackJoon/test/자료구조1/쇠막대기Test.java" />
     <entry file="file://$PROJECT_DIR$/basic/_알고리즘기초/DataStructureTest/Josephus_1158Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1145,6 +1190,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1198,6 +1244,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding>
+            <element signature="e#233#234#0" expanded="false" />
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#306#307#0" expanded="false" />
+            <element signature="e#338#339#0" expanded="false" />
+            <element signature="e#376#377#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1243,6 +1297,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <marker date="1506402635000" expanded="false" signature="72:617" ph="/**...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1250,6 +1307,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,6 +1322,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1278,6 +1337,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
           <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1285,6 +1345,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1384,11 +1445,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선TEST/지역본선13/초등부/덩치Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/정보올림피아드_지역본선/지역본선13/초등부/덩치.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="502">
+          <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
