@@ -1,12 +1,16 @@
 package 지역본선14.초등부;
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 /**
  * Created by masinogns on 2017. 9. 26..
  *
  * 한국정보화진흥원에서 제공한 모범 소스..
  */
 public class 저울 {
-    public int[] solution(int N, int M, int[][] A) {
+    public ArrayList<Integer> solution(int N, int M, int[][] A) {
+        ArrayList<Integer> ret = new ArrayList<>();
 
         // 가중치 그래프를 만들 배열
         int[][] array = new int[N+1][N+1];
@@ -41,9 +45,32 @@ public class 저울 {
                     count++;
             }
 
-            System.out.println(count);
+            ret.add(count);
         }
 
-        return new int[0];
+        return ret;
     }
+
+    public static void main(String[] args) {
+        저울 application = new 저울();
+
+        Scanner scanner = new Scanner(System.in);
+
+        int N = scanner.nextInt();
+        int M = scanner.nextInt();
+        int A[][] = new int[M][2];
+
+        for (int i = 0; i < M; i++) {
+            A[i][0] = scanner.nextInt();
+            A[i][1] = scanner.nextInt();
+        }
+
+        ArrayList<Integer> ret = application.solution(N, M, A);
+
+        for (Integer i : ret){
+            System.out.println(i);
+        }
+    }
+
+
 }
