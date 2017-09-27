@@ -16,17 +16,18 @@
       <sourceFolder url="file://$MODULE_DIR$/basic/입출력" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/함수" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/Collection" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/알고리즘기초/exhaustiveSearchTest" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/알고리즘기초/exhaustiveSearch" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/알고리즘기초/DataStructure" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/알고리즘기초/DataStructureTest" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/_알고리즘기초/exhaustiveSearchTest" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/_알고리즘기초/exhaustiveSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/_알고리즘기초/DataStructure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/_알고리즘기초/DataStructureTest" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/basic/SortingLibrary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/basic/SortingTest" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/basic/BasicTest" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TestBasic" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/basic2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TestBasic2" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/정보올림피아드_지역본선" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/정보올림피아드_지역본선TEST" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/basic" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
